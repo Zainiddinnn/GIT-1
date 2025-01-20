@@ -1,0 +1,29 @@
+.nav_p {
+  line-height: 40px;
+  color: #263640;
+}
+
+h1 {
+  font-size: 32px;
+  line-height: 45px;
+  color: #263640;
+}
+
+.nav_p:hover {
+  color: #ff9900;
+  cursor: pointer;
+  text-decoration: underline;
+  text-underline-offset: 6px;
+}
+
+.p_lorem {
+  font-weight: 500;
+  line-height: 28px;
+  color: #929a9f;
+}
+
+.p_Erfahren_Sie_mehr {
+  font-weight: 500;
+  line-height: 28px;
+  color: #ff9900;
+}/*# sourceMappingURL=mixin.css.map */
