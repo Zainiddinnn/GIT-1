@@ -23,3 +23,14 @@ $ git push origin heroku
 $ cd /etc/
 $ ls
 ```
+
+### Repository
+
+A GitHub **repository** can be used to store a development **project**.
+
+It can contain **folders** and any type of **files** ( <ins>HTML, </int> <ins>CSS, </int> <ins>JavaScript, </int> <ins>Documents, </int> <ins>Data, </int> <ins> Images</int>).
+
+A GitHub repository should also include a **licence** file and a __README__ file about the project.
+
+A GitHub repository can also be used to store ideas, or any resources that you want to share.
+
