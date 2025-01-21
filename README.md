@@ -15,3 +15,11 @@
 - Commits
 - Pull Requests
 - Git (the version control software GitHub is built on)
+
+** Example **
+
+```
+`$ git push origin heroku`
+`$ cd /etc/`
+`$ ls`
+```
