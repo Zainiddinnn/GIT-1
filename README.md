@@ -35,12 +35,17 @@ A GitHub repository should also include a **licence** file and a __README__ file
 A GitHub repository can also be used to store ideas, or any resources that you want to share.
 
 ### Branch
-* * A GitHub branch is used to work with different versions of a repository at the same time. * *  
 
+A GitHub branch is used to work with different **versions** of a repository at the same time. 
 
-By default a repository has a master branch (a production branch).
+By default a repository has a **master** branch (a production branch).
 
-Any other branch is a copy of the master branch (as it was at a point in time).
+Any other branch is a **copy** of the master branch (as it was at a point in time).
 
 New Branches are for bug fixes and feature work separate from the master branch. When changes are ready, they can be merged into the master branch. If you make changes to the master branch while working on a new branch, these updates can be pulled in.
-* *
+
+### Commits
+
+> At GitHub, changes are called commits.
+
+> Each commit (change) has a description explaining why a change was made.
