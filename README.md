@@ -49,3 +49,14 @@ New Branches are for bug fixes and feature work separate from the master branch.
 > At GitHub, changes are called commits.
 
 > Each commit (change) has a description explaining why a change was made.
+
+
+### Pull Requests
+
+Pull Requests are the heart of GitHub _collaboration._
+
+With a pull request you are _proposing_ that your changes should be _merged_ (pulled in) with the master.
+
+Pull requests show content _differences_, changes, additions, and subtractions in _colors_ (green and red).
+
+As soon as you have a commit, you can open a pull request and start a discussion, even before the code is finished.
