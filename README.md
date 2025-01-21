@@ -10,8 +10,8 @@
 *GitHub lets you (and others) work together on projects.*
 
 *GitHub essentials are:*
--Repositories
--Branches
--Commits
--Pull Requests
--Git (the version control software GitHub is built on)
+- Repositories
+- Branches
+- Commits
+- Pull Requests
+- Git (the version control software GitHub is built on)
