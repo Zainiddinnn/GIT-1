@@ -1,5 +1,5 @@
-## GIT-1
-## lesson-1 git & github
+## GIT-1 / lesson-1 / git & github
+
 
 # [What is GitHub](https://www.w3schools.com/whatis/whatis_github.asp)
 
