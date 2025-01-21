@@ -60,3 +60,29 @@ With a pull request you are _proposing_ that your changes should be _merged_ (pu
 Pull requests show content _differences_, changes, additions, and subtractions in _colors_ (green and red).
 
 As soon as you have a commit, you can open a pull request and start a discussion, even before the code is finished.
+
+# What is Git: Features, Commands, Branch and Workflow in Git
+
+
+_Git_ is a _DevOps_ tool used for source code management. It is a free and open-source version control system used to handle small to very large projects efficiently. Git is used to tracking changes in the source code, enabling multiple developers to work together on non-linear development. Linus Torvalds created Git in 2005 for the development of the Linux kernel.
+
+```
+Transform your DevOps career and learn the science of improving the operational and developmental activities by choosing our PGP in DevOps. Contact our admission counselor today and grab your seat!
+```
+
+Before diving deep, let’s explain a scenario before Git:
+
+- Developers used to submit their codes to the central server without having copies of their own
+- Any changes made to the source code were unknown to the other developers
+- There was no communication between any of the developers
+
+  ![image](https://github.com/user-attachments/assets/b592f036-875c-467d-a4f4-fca301a6b9d3)
+
+Now let’s look at the scenario after Git:
+
+- Every developer has an entire copy of the code on their local systems
+- Any changes made to the source code can be tracked by others
+- There is regular communication between the developers
+
+- ![image](https://github.com/user-attachments/assets/fbfca28d-6f44-40da-9efd-7aa3f01479e9)
+
