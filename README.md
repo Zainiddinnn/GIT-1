@@ -28,9 +28,19 @@ $ ls
 
 A GitHub **repository** can be used to store a development **project**.
 
-It can contain **folders** and any type of **files** ( <ins>HTML, </int> <ins>CSS, </int> <ins>JavaScript, </int> <ins>Documents, </int> <ins>Data, </int> <ins> Images</int>).
+It can contain **folders** and any type of **files** ( <ins>HTML,  </int> <ins>CSS,  </int> <ins>JavaScript,  </int> <ins>Documents,  </int> <ins>Data,  </int> <ins> Images</int>).
 
 A GitHub repository should also include a **licence** file and a __README__ file about the project.
 
 A GitHub repository can also be used to store ideas, or any resources that you want to share.
 
+### Branch
+* *
+A GitHub branch is used to work with different versions of a repository at the same time.
+
+By default a repository has a master branch (a production branch).
+
+Any other branch is a copy of the master branch (as it was at a point in time).
+
+New Branches are for bug fixes and feature work separate from the master branch. When changes are ready, they can be merged into the master branch. If you make changes to the master branch while working on a new branch, these updates can be pulled in.
+* *
