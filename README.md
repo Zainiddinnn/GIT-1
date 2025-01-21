@@ -86,3 +86,35 @@ Now let’s look at the scenario after Git:
 
 - ![image](https://github.com/user-attachments/assets/fbfca28d-6f44-40da-9efd-7aa3f01479e9)
 
+## What is Git?
+
+-Git is a version control system used for tracking changes in computer files. It is generally used for source code management in software development.-
+
+- Git is used to tracking changes in the source code
+- The distributed version control tool is used for source code management
+- It allows multiple developers to work together
+- It supports non-linear development through its thousands of parallel branches
+
+## Features of Git
+- Tracks history
+- Free and open source
+- Supports non-linear development
+- Creates backups
+- Scalable
+- Supports collaboration
+- Branching is easier
+- Distributed development
+
+ ![image](https://github.com/user-attachments/assets/282173bc-d219-4114-bfa0-92c75956114a)
+
+## Git Workflow
+
+![image](https://github.com/user-attachments/assets/bd092bd1-34a5-4cb0-9aa7-f5ffd8fe3849)
+
+The Git workflow is divided into three states:
+
+> Working directory - Modify files in your working directory
+> Staging area (Index) - Stage the files and add snapshots of them to your staging area
+> Git directory (Repository) - Perform a commit that stores the snapshots permanently to your Git directory. Checkout any existing version, make changes, stage them and commit.
+
+  
