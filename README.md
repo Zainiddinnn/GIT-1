@@ -35,8 +35,8 @@ A GitHub repository should also include a **licence** file and a __README__ file
 A GitHub repository can also be used to store ideas, or any resources that you want to share.
 
 ### Branch
-* *
-A GitHub branch is used to work with different versions of a repository at the same time.
+* * A GitHub branch is used to work with different versions of a repository at the same time. * *  
+
 
 By default a repository has a master branch (a production branch).
 
