@@ -1,4 +1,4 @@
-## GIT-1
+  ## GIT-1
 ## lesson-1 git & github
 
 # What is GitHub?
@@ -19,7 +19,7 @@
 ** Example **
 
 ```
-`$ git push origin heroku`
+` $ git push origin heroku `
 `$ cd /etc/`
 `$ ls`
 ```
